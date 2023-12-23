@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Problem Solving ..**
 
-- 📫 How to reach me: [doaakhalaf1outlook@gmail.com](mailto:doaakhalaf1outlook@gmail.com)
+- 📫 How to reach me: [doaakhalaf1outlook@gmail.com](mailto:doaaosamakhalaf@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
