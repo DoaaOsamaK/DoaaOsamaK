@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=c38eb4&colorB=f7cfd1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
 
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
@@ -50,4 +50,4 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaaosamak&" alt="doaaosamak" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
