@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
 
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center"> Frontend Developer&& UI/UX designer&& Graphic Desginer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/d0aa_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d0aa_0sama" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/doaaosamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d0aa_0sama" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/doaakhalaf1outlook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="doaakhalaf1outlook" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/d0aa_0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d0aa_0sama" height="30" width="40" /></a>
 </p>
