@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
 
-<h3 align="center"> Frontend Developer&& UI/UX designer&& Graphic Desginer </h3>
+<h3 align="center"> Frontend Developer&& UI/UX Designer&& Graphic Desginer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -44,10 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doaaosamak&show_icons=true&locale=en" alt="doaaosamak" />
-</p>
-
-<p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaaosamak&" alt="doaaosamak" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
