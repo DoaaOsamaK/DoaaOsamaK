@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,bootstrap,jquery,js,php,nodejs,react,figma,git,github,githubactions,bash,md,vscode,visualstudio,photoshop,illustrator,discord,dart,flutter,unity,autocad&perline=11)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,bootstrap,jquery,js,php,nodejs,gcp,react,mysql,figma,git,github,githubactions,bash,md,vscode,visualstudio,photoshop,illustrator,discord,dart,flutter,unity,postgresql,autocad&perline=11)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaosamak&show_icons=true&locale=en&layout=compact" alt="doaaosamak" />
