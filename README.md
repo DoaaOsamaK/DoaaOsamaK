@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=doaaosamak&label=Profile%20views&color=0e75b6&style=flat" alt="doaaosamak" /> 
 </p>
 
-- 🔭 I’m currently working on **front-end projects**
+- 🔭 I’m a second-year student at Palestine Technical University.
 
 - 💬 Ask me about **Problem Solving ..**
 
@@ -21,18 +21,27 @@
 ----
 <h3 align="left">👋🏻 Connect with me:</h3>
 <p align="left">
-   <a href="https://www.linkedin.com/in/dodo88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doaaosamak" height="30" width="40" /></a>
+   <a href="www.linkedin.com/in/duaaosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doaaosamak" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/doaakhalaf1outlook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="doaakhalaf1outlook" height="30" width="40" /></a>
   <a href="https://leetcode.com/DoaaOsamaK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d0aa_0sama" height="30" width="40" /></a>
 </p>
 <br>
 
 ---
-<h3 align="left">🙌🏻 Languages and Tools:</h3>
+<h3 align="left">🙌🏻Languages:</h3>
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,bootstrap,jquery,js,tailwind,expressjs,php,nodejs,nextjs,gcp,gmail,react,mongodb,mysql,figma,git,github,githubactions,gitlab,bash,md,vscode,visualstudio,photoshop,illustrator,xd,discord,dart,flutter,unity,postgresql,linkedin,autocad&perline=11)
+![Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,bootstrap,jquery,js,tailwind,nodejs,react,mongodb,mysql,dart&perline=11)
+
+<br>
+
+---
+<h3 align="left">🙌🏻Tools&Framework:</h3>
+
+<br>
+
+![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,visualstudio,photoshop,illustrator,xd,flutter,unity,linkedin,autocad&perline=11)
 
 <br>
 
