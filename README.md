@@ -1,4 +1,5 @@
 
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000
 )
 <br>
@@ -28,20 +29,40 @@
 <br>
 
 ---
-<h3 align="left">🙌🏻Languages:</h3>
+<h3 align="left">🙌🏻Skills:</h3>
 
 <br>
+<h4 align="left">Languages:</h4>
 
-![Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,bootstrap,jquery,js,tailwind,nodejs,react,mongodb,mysql,dart&perline=11)
+![Skills](https://skillicons.dev/icons?i=cpp,java,python,js,dart&perline=11)
 
 <br>
 
 ---
-<h3 align="left">🙌🏻Tools&Framework:</h3>
+<h3 align="left">Markup and Styling:</h3>
+
+![Skills](https://skillicons.dev/icons?i=html,css&perline=11)
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,visualstudio,photoshop,illustrator,xd,flutter,unity,linkedin,autocad&perline=11)
+-------
+
+<h4 align="left">Libraries:</h4>
+
+![Skills](https://skillicons.dev/icons?i=bootstrap,jquery&perline=11)
+<br>
+
+---
+<h3 align="left">Frameworks:</h3>
+
+![Skills](https://skillicons.dev/icons?i=tailwind,react&perline=11)
+
+<br>
+
+-------
+<h3 align="left">Tools:</h3>
+
+![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,photoshop,illustrator,xd,flutter,unity,autocad&perline=11)
 
 <br>
 
