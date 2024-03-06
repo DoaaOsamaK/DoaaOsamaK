@@ -1,13 +1,10 @@
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000
 )
+<h2 align="center"> Super Intersting, Skilled and Soft  Software Engineer 👩🏻‍💻 </h2>
+
 <br>
-<h2 align="center"> Super Intersting, Skilled and Soft  Software Engineer 👩🏻‍💻 </h2><br>
 
-
-
-<img align="right" alt="Coding" width="400" src="dddd.png">
+<img align="right" alt="Coding" width="350" src="dddd.png">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=doaaosamak&label=Profile%20views&color=0e75b6&style=flat" alt="doaaosamak" /> 
@@ -18,6 +15,8 @@
 - 💬 Ask me about **Problem Solving ..**
 
 - 📫 How to reach me: [doaaosamakhalaf@gmail.com](mailto:doaaosamakhalaf@gmail.com)
+
+<br>
 
 ----
 <h3 align="left">👋🏻 Connect with me:</h3>
