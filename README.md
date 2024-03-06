@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000
-)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000)
 
 <br>
 
@@ -22,6 +21,7 @@
 <br>
 
 ----
+
 <h3 align="left">👋🏻 Connect with me:</h3>
 <p align="left">
    <a href="www.linkedin.com/in/duaaosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doaaosamak" height="30" width="40" /></a>
@@ -31,6 +31,7 @@
 <br>
 
 ---
+
 <h3 align="left">🙌🏻Skills:</h3>
 
 <br>
@@ -41,6 +42,7 @@
 <br>
 
 ---
+
 <h3 align="left">Markup and Styling:</h3>
 
 ![Skills](https://skillicons.dev/icons?i=html,css&perline=11)
@@ -55,6 +57,7 @@
 <br>
 
 ---
+
 <h3 align="left">Frameworks:</h3>
 
 ![Skills](https://skillicons.dev/icons?i=tailwind,react&perline=11)
@@ -62,6 +65,7 @@
 <br>
 
 -------
+
 <h3 align="left">Tools:</h3>
 
 ![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,photoshop,illustrator,xd,flutter,unity,autocad&perline=11)
