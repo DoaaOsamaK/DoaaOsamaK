@@ -72,4 +72,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaosamak&show_icons=true&locale=en&layout=compact" alt="doaaosamak" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
