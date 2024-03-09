@@ -28,10 +28,10 @@
 <br>
 
 ---
-<h3 align="left">🙌🏻Skills:</h3>
+<h2 align="left">🙌🏻Skills:</h2>
 
 <br>
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 
 ![Skills](https://skillicons.dev/icons?i=cpp,java,python,js,dart&perline=11)
 
@@ -46,7 +46,7 @@
 
 -------
 
-<h4 align="left">Libraries:</h4>
+<h3 align="left">Libraries:</h3>
 
 ![Skills](https://skillicons.dev/icons?i=bootstrap,jquery&perline=11)
 <br>
