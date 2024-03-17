@@ -28,17 +28,17 @@
 <br>
 
 ---
-<h2 align="left">🙌🏻Skills:</h2>
+<h3 align="left">🙌🏻Skills:</h3>
 
 <br>
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=cpp,java,python,js,dart&perline=11)
 
 <br>
 
 ---
-<h3 align="left">Markup and Styling:</h3>
+<h4 align="left">Markup and Styling:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=html,css&perline=11)
 
@@ -46,20 +46,20 @@
 
 -------
 
-<h3 align="left">Libraries:</h3>
+<h4 align="left">Libraries:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=bootstrap,jquery&perline=11)
 <br>
 
 ---
-<h3 align="left">Frameworks:</h3>
+<h4 align="left">Frameworks:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=tailwind,react&perline=11)
 
 <br>
 
 -------
-<h3 align="left">Tools:</h3>
+<h4 align="left">Tools:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,photoshop,illustrator,xd,flutter,unity,autocad&perline=11)
 
