@@ -32,7 +32,6 @@
 
 <br>
 
----
 <h2 align="left">🙌🏻Skills:</h2>
 
 <h4 align="left">Languages:</h4>
@@ -41,14 +40,11 @@
 
 <br>
 
----
 <h4 align="left">Markup and Styling:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=html,css&perline=11)
 
 <br>
-
--------
 
 <h4 align="left">Core Technologies:</h4>
 
@@ -64,7 +60,6 @@
 
 <br>
 
--------
 <h4 align="left">Tools:</h4>
 
 ![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,photoshop,illustrator,xd,flutter,unity,autocad&perline=11)
@@ -78,7 +73,7 @@
 
   <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Doaaosamak&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "RaghadAbusamor's Languages/Frameworks" width = 350 />
-</p>
+<img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doaaosamak&theme=gruvbox&hide_border=true" /></p>
 
 <br>
 <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /> -->
