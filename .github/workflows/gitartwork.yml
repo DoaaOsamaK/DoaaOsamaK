@@ -1,12 +1,12 @@
-            - name: gitartwork on contribution graph
+  - name: gitartwork on contribution graph
   # You may pin to the exact commit or the version.
   # uses: jasineri/gitartwork@4fbbee9f24135fc2896a7593814893c18ead3e16
   uses: jasineri/gitartwork@v1
   with:
     # Username
-    user_name: # default is jasineri
+    user_name: doaaosamak
     # Text on contribution graph
-    text: # default is JASINERI
+    text: Eng.DOAA
     # SVG file name (optional), default: gitartwork.svg
     svg_file_name: # optional, default is gitartwork.svg
           
