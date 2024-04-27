@@ -4,7 +4,6 @@
 <br>
 
 
-
 <img align="right" alt="Coding" width="350" src="dddd.png">
 
 <p align="left"> 
@@ -19,8 +18,6 @@
 
 - 💤 Coding: where logic meets magic 🧠.
 
-<br>
-
 ----
 <h3 align="left">👋🏻 You Can Find me at:</h3>
 
@@ -31,6 +28,8 @@
 </p>
 
 <br>
+
+---
 
 <h2 align="left">🙌🏻Skills:</h2>
 
