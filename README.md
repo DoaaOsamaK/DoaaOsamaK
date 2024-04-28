@@ -89,4 +89,6 @@
 
 ![gitartwork](gitartwork.svg)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
