@@ -87,4 +87,6 @@
 <!-- <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /> -->
 </div>
 
+![gitartwork](gitartwork.svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=EBC190&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
