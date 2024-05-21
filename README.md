@@ -90,4 +90,4 @@
 ![snake gif](https://github.com/doaaosamak/doaaosamak/blob/output/github-contribution-grid-snake.gif)
 /> -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
