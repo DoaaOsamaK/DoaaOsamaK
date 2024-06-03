@@ -52,6 +52,8 @@
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
     <img src="https://skillicons.dev/icons?i=tailwind&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a> 
+
 </div>
 
 
@@ -74,6 +76,7 @@
 <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doaaosamak&theme=gruvbox&hide_border=true" /></p>
 
 <br>
+
 <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /> -->
 <!-- <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" />
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /> -->
