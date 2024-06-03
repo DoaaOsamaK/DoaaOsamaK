@@ -52,7 +52,8 @@
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
     <img src="https://skillicons.dev/icons?i=tailwind&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a>
 
 </div>
 
