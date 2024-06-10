@@ -76,7 +76,7 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Doaaosamak&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "RaghadAbusamor's Languages/Frameworks" width = 350 />
 <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doaaosamak&theme=gruvbox&hide_border=true" /></p>
 
-<br>
+<br> 
 
 <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /> -->
 <!-- <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" />
