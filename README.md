@@ -64,30 +64,64 @@
   </tr>
 </table>
 
+### Backend:
+
+<table>
+  <tr>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=cs&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐⭐</td>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=mysql&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=mongodb&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=fastapi&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>    <img src="https://skillicons.dev/icons?i=nextjs&perline=11" alt="icon" style="width: 60px; height: 60px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=express&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=postman&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+     <td>    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+</table>
 
 
+### UI/UX:
+<table>
+  <tr>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=figma&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐⭐</td>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=photoshop&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐</td>
+    <td> <div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=illustrator&perline=11" alt="icon" width="45" height="45" /></div> 
+</td>
+    <td>⭐⭐⭐⭐</td>
 
+   
+</table>
+
+<h4 align="left">I know about:</h4>
+
+
+![Skills](https://skillicons.dev/icons?i=git,github,bash,md,vscode,flutter,unity,autocad&perline=11)
 
 <br>
 
-<h4 align="left">Core Technologies:</h4>
 
-<div style="display: flex; align-items: center;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a> 
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a>
-
-</div>
 <!-- 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
 </div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
  -->
-
-<br>
-
-<h4 align="left">Tools:</h4>
-
-![Skills](https://skillicons.dev/icons?i=figma,git,github,bash,md,vscode,photoshop,illustrator,xd,flutter,unity,autocad&perline=11)
-
 
 <br>
 
