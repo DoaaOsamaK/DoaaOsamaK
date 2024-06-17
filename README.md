@@ -1,6 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 <h2 align="center"> Super Intersting, Skilled and Soft  Software Engineer 👩🏻‍💻💎 </h2>
 
+
 <br>
 
 <img align="right" alt="Coding" width="350" src="dddd.png">
@@ -32,32 +33,54 @@
 
 <h2 align="left">🙌🏻Skills:</h2>
 
-<h4 align="left">Languages:</h4>
+### Frontend:
 
-![Skills](https://skillicons.dev/icons?i=cpp,java,python,js,dart&perline=11)
+<table>
+  <tr>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=html&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐⭐</td>
+<td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=css&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐</td>
+    <td> <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" /></div> 
+</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=bootstrap&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 60px; height: 60px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=tailwind&perline=11" alt="icon" style="width: 60px; height: 60px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 60px; height: 60px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>    <img src="https://skillicons.dev/icons?i=jquery&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
+</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+</table>
 
-<br>
 
-<h4 align="left">Markup and Styling:</h4>
 
-![Skills](https://skillicons.dev/icons?i=html,css&perline=11)
+
 
 <br>
 
 <h4 align="left">Core Technologies:</h4>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
-    <img src="https://skillicons.dev/icons?i=jquery&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 55px; height: 55px; margin-right: 18px; margin-bottom: 0px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind&perline=11" alt="icon" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a> 
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 18px; margin-bottom: 0px;"/> </a>
 
 </div>
-
-
+<!-- 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+</div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+ -->
 
 <br>
 
