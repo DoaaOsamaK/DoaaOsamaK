@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 <h2 align="center"> Super Intersting, Skilled and Soft  Software Engineer 👩🏻‍💻💎 </h2>
 
-
 <br>
 
 <img align="right" alt="Coding" width="350" src="dddd.png">
