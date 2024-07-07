@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=546f09&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=dfb89e&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 <h2 align="center"> Super Intersting, Skilled and Soft  Software Engineer 👩🏻‍💻💎 </h2>
 
 <br>
@@ -150,4 +150,4 @@
 ![snake gif](https://github.com/doaaosamak/doaaosamak/blob/output/github-contribution-grid-snake.gif)
 /> -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=546f09&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=dfb89e&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
