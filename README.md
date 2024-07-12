@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=doaaosamak&label=Profile%20views&color=0e75b6&style=flat" alt="doaaosamak" /> 
 </p>
 
-- 🔭 I’m a second-year student at Palestine Technical University.
+- 🔭 I’m a third-year student at Palestine Technical University.
 
 - 💬 Ask me about **Problem Solving ..**
 
