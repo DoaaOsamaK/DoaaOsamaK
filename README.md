@@ -102,6 +102,8 @@
   <tr>
 <td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=figma&perline=11" alt="icon" width="45" height="45" /></div></td>
     <td>⭐⭐⭐⭐⭐</td>
+    <td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=xd&perline=11" alt="icon" width="45" height="45" /></div></td>
+    <td>⭐⭐⭐⭐⭐</td>
 <td><div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=photoshop&perline=11" alt="icon" width="45" height="45" /></div></td>
     <td>⭐⭐⭐⭐</td>
     <td> <div style="display: flex; align-items: flex-start;"><img src="https://skillicons.dev/icons?i=illustrator&perline=11" alt="icon" width="45" height="45" /></div> 
