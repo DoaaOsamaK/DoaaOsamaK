@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=57a0d1&height=222&section=header&text=Hi,%20I'm%20Doa'a%20Osama%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
-<h2 align="center">Super Interesting, Skilled and Soft Software Engineer 👩🏻‍💻💎</h2>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=57a0d1&height=222&section=header&text=Hi,%20I'm%20Dua'a%20Khalaf!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
+<h2 align="center">Computer System Engineering Student👩🏻‍💻💎</h2>
 
 <br>
 
@@ -9,13 +9,12 @@
 </p>
 
 - 🔭 I’m a third-year student at Palestine Technical University.
-- 💬 Ask me about **Problem Solving ..**
-- 📫 How to reach me: [doaaosamakhalaf@gmail.com](mailto:doaaosamakhalaf@gmail.com).
+- 📫 Reach me: [doaaosamakhalaf@gmail.com](mailto:doaaosamakhalaf@gmail.com).
 - 💤 Coding: where logic meets magic 🧠.
 
 ----
 
-<h3 align="left">👋🏻 You Can Find Me At:</h3>
+<h3 align="left">You can find me at:</h3>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/duaaosama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doaaosamak" height="30" width="40" /></a>
@@ -23,11 +22,9 @@
   <a href="https://leetcode.com/DoaaOsamaK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d0aa_0sama" height="30" width="40" /></a>
 </p>
 
-<br>
-
 ---
 
-<h2 align="left">🙌🏻 Skills:</h2>
+<h2 align="left">Skills:</h2>
 
 ### Frontend:
 
