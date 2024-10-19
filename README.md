@@ -26,7 +26,7 @@
 
 <h2 align="left">Skills:</h2>
 
-![Skills](https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,bootstrap,sass,tailwind,react,mysql,mongodb,nextjs,postman,figma,xd,photoshop,illustrator&perline=11)
+![Skills](https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,bootstrap,sass,tailwind,react,mysql,mongodb,nextjs,postman,figma,photoshop,illustrator&perline=11)
 
 <br>
 
