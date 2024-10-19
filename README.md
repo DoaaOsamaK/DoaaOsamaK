@@ -26,73 +26,7 @@
 
 <h2 align="left">Skills:</h2>
 
-### Frontend:
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=css&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" /></td>
-    <td>⭐⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="60" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind&perline=11" alt="icon" width="60" height="60" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=jquery&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-### Backend:
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=mysql&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nextjs&perline=11" alt="icon" width="60" height="60" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=express&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=postman&perline=11" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="icon" width="50" height="50" /></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-### UI/UX:
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=figma&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=xd&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=photoshop&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐</td>
-    <td><img src="https://skillicons.dev/icons?i=illustrator&perline=11" alt="icon" width="45" height="45" /></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-<h4 align="left">I know about:</h4>
-
-![Skills](https://skillicons.dev/icons?i=git,github,bash,md,vscode,flutter,unity,autocad&perline=11)
+![Skills](https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,bootstrap,sass,tailwind,react,mysql,mongodb,nextjs,postman,figma,xd,photoshop,illustrator&perline=11)
 
 <br>
 
