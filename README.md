@@ -47,7 +47,6 @@
   <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoaaOsamaK&theme=radical&hide_border=true" />
   <img height=171 src="https://github-readme-stats.vercel.app/api?username=DoaaOsamaK&theme=radical&hide_border=true" /> 
   &ensp;
-  <img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=DoaaOsamaK&theme=radical&hide_border=true" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=d7cab3&height=150&section=footer)
