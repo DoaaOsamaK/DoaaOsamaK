@@ -1,5 +1,9 @@
 # Hi, I'm Dua'a Khalaf
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=doaaosamak&label=Profile%20views&color=0e75b6&style=flat" alt="doaaosamak" /> 
+</p>
+
 🎓 A dedicated Computer Systems Engineering student at Palestine Technical University – Kadoorie (PTUK), class of 2026.
 
 💻 Passionate about backend development, data structures, and designing systems that solve real-world problems.
