@@ -49,4 +49,4 @@
   &ensp;
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=d7cab3&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3e6c8e&height=150&section=footer)
