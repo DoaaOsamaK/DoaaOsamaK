@@ -51,6 +51,3 @@ I regularly sharpen my skills through competitive programming and algorithm chal
 
 ---
 
-_Dua'a Khalaf_  
-📧 doaaosamakhalaf@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/duaaosama/)
