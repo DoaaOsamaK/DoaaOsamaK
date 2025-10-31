@@ -12,7 +12,7 @@
 
 ---
 
-## 🔧 Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Languages:** Java, C++, C#, JavaScript
 - **Backend:** ASP.NET, Node.js (basics), REST APIs
@@ -23,7 +23,7 @@
 
 ---
 
-## 💼 Projects & Experience
+## Projects & Experience
 
 - Designed full-stack systems for hospitality, cinema, and food services as part of the "Augalassia" suite.
 - Built an accounting and invoicing system for a café, implementing custom item tracking, tax calculation, and receipt generation.
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 Problem Solving
+## Problem Solving
 
 I regularly sharpen my skills through competitive programming and algorithm challenges on platforms like:
 
@@ -40,7 +40,7 @@ I regularly sharpen my skills through competitive programming and algorithm chal
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **Email:** [doaaosamakhalaf@gmail.com](mailto:doaaosamakhalaf@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/duaaosama](https://www.linkedin.com/in/duaaosama/)
