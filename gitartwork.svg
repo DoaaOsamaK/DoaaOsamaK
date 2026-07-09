@@ -30,7 +30,7 @@
     }
 @keyframes c0 {
                 from {
-transform: rotate(-551deg)
+transform: rotate(364deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -44,21 +44,7 @@ transform: rotate(0deg)
             }
 @keyframes c1 {
                 from {
-transform: rotate(-714deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c1 {
-                animation-name: c1
-            }
-@keyframes c2 {
-                from {
-transform: rotate(-627deg)
+transform: rotate(-645deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -67,12 +53,12 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c2 {
-                animation-name: c2
+.c.c1 {
+                animation-name: c1
             }
-@keyframes c3 {
+@keyframes c2 {
                 from {
-transform: rotate(266deg)
+transform: rotate(-46deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -81,12 +67,26 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c2 {
+                animation-name: c2
+            }
+@keyframes c3 {
+                from {
+transform: rotate(149deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c3 {
                 animation-name: c3
             }
 @keyframes c4 {
                 from {
-transform: rotate(-654deg)
+transform: rotate(-251deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -100,13 +100,13 @@ transform: rotate(0deg)
             }
 @keyframes c5 {
                 from {
-transform: rotate(389deg)
+transform: rotate(470deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c5 {
@@ -114,13 +114,13 @@ transform: rotate(0deg)
             }
 @keyframes c6 {
                 from {
-transform: rotate(115deg)
+transform: rotate(-366deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c6 {
@@ -128,13 +128,13 @@ transform: rotate(0deg)
             }
 @keyframes c7 {
                 from {
-transform: rotate(-271deg)
+transform: rotate(-639deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c7 {
@@ -142,21 +142,7 @@ transform: rotate(0deg)
             }
 @keyframes c8 {
                 from {
-transform: rotate(358deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c8 {
-                animation-name: c8
-            }
-@keyframes c9 {
-                from {
-transform: rotate(-390deg)
+transform: rotate(196deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -165,26 +151,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c9 {
-                animation-name: c9
+.c.c8 {
+                animation-name: c8
             }
-@keyframes c10 {
+@keyframes c9 {
                 from {
-transform: rotate(-441deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c10 {
-                animation-name: c10
-            }
-@keyframes c11 {
-                from {
-transform: rotate(-54deg)
+transform: rotate(384deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -193,12 +165,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c11 {
-                animation-name: c11
+.c.c9 {
+                animation-name: c9
             }
-@keyframes c12 {
+@keyframes c10 {
                 from {
-transform: rotate(-397deg)
+transform: rotate(338deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -207,12 +179,26 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c12 {
-                animation-name: c12
+.c.c10 {
+                animation-name: c10
             }
-@keyframes c13 {
+@keyframes c11 {
                 from {
-transform: rotate(-557deg)
+transform: rotate(626deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c11 {
+                animation-name: c11
+            }
+@keyframes c12 {
+                from {
+transform: rotate(496deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -221,12 +207,26 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c12 {
+                animation-name: c12
+            }
+@keyframes c13 {
+                from {
+transform: rotate(-139deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c13 {
                 animation-name: c13
             }
 @keyframes c14 {
                 from {
-transform: rotate(78deg)
+transform: rotate(-113deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -240,35 +240,7 @@ transform: rotate(0deg)
             }
 @keyframes c15 {
                 from {
-transform: rotate(332deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c15 {
-                animation-name: c15
-            }
-@keyframes c16 {
-                from {
-transform: rotate(-495deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c16 {
-                animation-name: c16
-            }
-@keyframes c17 {
-                from {
-transform: rotate(94deg)
+transform: rotate(222deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -277,12 +249,54 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c15 {
+                animation-name: c15
+            }
+@keyframes c16 {
+                from {
+transform: rotate(-413deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c16 {
+                animation-name: c16
+            }
+@keyframes c17 {
+                from {
+transform: rotate(-308deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c17 {
                 animation-name: c17
             }
 @keyframes c18 {
                 from {
-transform: rotate(-137deg)
+transform: rotate(85deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c18 {
+                animation-name: c18
+            }
+@keyframes c19 {
+                from {
+transform: rotate(-710deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -291,12 +305,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c18 {
-                animation-name: c18
+.c.c19 {
+                animation-name: c19
             }
-@keyframes c19 {
+@keyframes c20 {
                 from {
-transform: rotate(-235deg)
+transform: rotate(13deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -305,32 +319,18 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c19 {
-                animation-name: c19
-            }
-@keyframes c20 {
-                from {
-transform: rotate(-55deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
 .c.c20 {
                 animation-name: c20
             }
 @keyframes c21 {
                 from {
-transform: rotate(-534deg)
+transform: rotate(-164deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c21 {
@@ -338,13 +338,13 @@ transform: rotate(0deg)
             }
 @keyframes c22 {
                 from {
-transform: rotate(287deg)
+transform: rotate(-679deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c4)
                 }
             }
 .c.c22 {
@@ -352,7 +352,7 @@ transform: rotate(0deg)
             }
 @keyframes c23 {
                 from {
-transform: rotate(603deg)
+transform: rotate(-113deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -366,7 +366,7 @@ transform: rotate(0deg)
             }
 @keyframes c24 {
                 from {
-transform: rotate(596deg)
+transform: rotate(-292deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -380,7 +380,21 @@ transform: rotate(0deg)
             }
 @keyframes c25 {
                 from {
-transform: rotate(276deg)
+transform: rotate(-347deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c25 {
+                animation-name: c25
+            }
+@keyframes c26 {
+                from {
+transform: rotate(-620deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -389,26 +403,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c25 {
-                animation-name: c25
-            }
-@keyframes c26 {
-                from {
-transform: rotate(-231deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
 .c.c26 {
                 animation-name: c26
             }
 @keyframes c27 {
                 from {
-transform: rotate(483deg)
+transform: rotate(-659deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -422,13 +422,13 @@ transform: rotate(0deg)
             }
 @keyframes c28 {
                 from {
-transform: rotate(503deg)
+transform: rotate(545deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c1)
                 }
             }
 .c.c28 {
@@ -436,13 +436,13 @@ transform: rotate(0deg)
             }
 @keyframes c29 {
                 from {
-transform: rotate(301deg)
+transform: rotate(208deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c29 {
@@ -450,7 +450,7 @@ transform: rotate(0deg)
             }
 @keyframes c30 {
                 from {
-transform: rotate(-439deg)
+transform: rotate(179deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -464,7 +464,7 @@ transform: rotate(0deg)
             }
 @keyframes c31 {
                 from {
-transform: rotate(-703deg)
+transform: rotate(-365deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -478,13 +478,13 @@ transform: rotate(0deg)
             }
 @keyframes c32 {
                 from {
-transform: rotate(-212deg)
+transform: rotate(202deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c32 {
@@ -492,13 +492,13 @@ transform: rotate(0deg)
             }
 @keyframes c33 {
                 from {
-transform: rotate(463deg)
+transform: rotate(267deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c33 {
@@ -506,21 +506,7 @@ transform: rotate(0deg)
             }
 @keyframes c34 {
                 from {
-transform: rotate(-399deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c34 {
-                animation-name: c34
-            }
-@keyframes c35 {
-                from {
-transform: rotate(437deg)
+transform: rotate(626deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -529,12 +515,26 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c34 {
+                animation-name: c34
+            }
+@keyframes c35 {
+                from {
+transform: rotate(-188deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c35 {
                 animation-name: c35
             }
 @keyframes c36 {
                 from {
-transform: rotate(597deg)
+transform: rotate(349deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -548,21 +548,7 @@ transform: rotate(0deg)
             }
 @keyframes c37 {
                 from {
-transform: rotate(466deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c37 {
-                animation-name: c37
-            }
-@keyframes c38 {
-                from {
-transform: rotate(-483deg)
+transform: rotate(244deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -571,18 +557,32 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c38 {
-                animation-name: c38
+.c.c37 {
+                animation-name: c37
             }
-@keyframes c39 {
+@keyframes c38 {
                 from {
-transform: rotate(-237deg)
+transform: rotate(-451deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
+                }
+            }
+.c.c38 {
+                animation-name: c38
+            }
+@keyframes c39 {
+                from {
+transform: rotate(-241deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
                 }
             }
 .c.c39 {
@@ -590,7 +590,7 @@ transform: rotate(0deg)
             }
 @keyframes c40 {
                 from {
-transform: rotate(-466deg)
+transform: rotate(265deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -604,13 +604,13 @@ transform: rotate(0deg)
             }
 @keyframes c41 {
                 from {
-transform: rotate(526deg)
+transform: rotate(-599deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c41 {
@@ -618,7 +618,7 @@ transform: rotate(0deg)
             }
 @keyframes c42 {
                 from {
-transform: rotate(541deg)
+transform: rotate(425deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -632,13 +632,13 @@ transform: rotate(0deg)
             }
 @keyframes c43 {
                 from {
-transform: rotate(453deg)
+transform: rotate(502deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c2)
                 }
             }
 .c.c43 {
@@ -646,13 +646,13 @@ transform: rotate(0deg)
             }
 @keyframes c44 {
                 from {
-transform: rotate(-512deg)
+transform: rotate(438deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c44 {
@@ -660,7 +660,35 @@ transform: rotate(0deg)
             }
 @keyframes c45 {
                 from {
-transform: rotate(-301deg)
+transform: rotate(243deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c45 {
+                animation-name: c45
+            }
+@keyframes c46 {
+                from {
+transform: rotate(-570deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c46 {
+                animation-name: c46
+            }
+@keyframes c47 {
+                from {
+transform: rotate(-45deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -669,46 +697,18 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c45 {
-                animation-name: c45
-            }
-@keyframes c46 {
-                from {
-transform: rotate(373deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c46 {
-                animation-name: c46
-            }
-@keyframes c47 {
-                from {
-transform: rotate(-720deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
 .c.c47 {
                 animation-name: c47
             }
 @keyframes c48 {
                 from {
-transform: rotate(-258deg)
+transform: rotate(-369deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c48 {
@@ -716,7 +716,7 @@ transform: rotate(0deg)
             }
 @keyframes c49 {
                 from {
-transform: rotate(-527deg)
+transform: rotate(-163deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -730,21 +730,7 @@ transform: rotate(0deg)
             }
 @keyframes c50 {
                 from {
-transform: rotate(-494deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c50 {
-                animation-name: c50
-            }
-@keyframes c51 {
-                from {
-transform: rotate(178deg)
+transform: rotate(77deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -753,18 +739,32 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c51 {
-                animation-name: c51
+.c.c50 {
+                animation-name: c50
             }
-@keyframes c52 {
+@keyframes c51 {
                 from {
-transform: rotate(635deg)
+transform: rotate(-388deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
+                }
+            }
+.c.c51 {
+                animation-name: c51
+            }
+@keyframes c52 {
+                from {
+transform: rotate(-650deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
                 }
             }
 .c.c52 {
@@ -772,7 +772,7 @@ transform: rotate(0deg)
             }
 @keyframes c53 {
                 from {
-transform: rotate(-120deg)
+transform: rotate(-699deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -786,21 +786,7 @@ transform: rotate(0deg)
             }
 @keyframes c54 {
                 from {
-transform: rotate(-375deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c54 {
-                animation-name: c54
-            }
-@keyframes c55 {
-                from {
-transform: rotate(-556deg)
+transform: rotate(453deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -809,12 +795,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c55 {
-                animation-name: c55
+.c.c54 {
+                animation-name: c54
             }
-@keyframes c56 {
+@keyframes c55 {
                 from {
-transform: rotate(-445deg)
+transform: rotate(214deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -823,12 +809,26 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c55 {
+                animation-name: c55
+            }
+@keyframes c56 {
+                from {
+transform: rotate(154deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
 .c.c56 {
                 animation-name: c56
             }
 @keyframes c57 {
                 from {
-transform: rotate(-23deg)
+transform: rotate(-376deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -842,13 +842,13 @@ transform: rotate(0deg)
             }
 @keyframes c58 {
                 from {
-transform: rotate(-646deg)
+transform: rotate(169deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c58 {
